@@ -1,0 +1,12 @@
+
+OpenGLRendering/OpenGLRendering.VC.db
+OpenGLRendering/OpenGLRendering.VC.VC.opendb
+**OpenGLRenering/OpenGLRendering/x64
+*.exp
+Unity/Assets/Plugins/OpenGLRendering.exp.meta
+*.ilk
+Unity/Assets/Plugins/OpenGLRendering.lib
+Unity/Assets/Plugins/OpenGLRendering.lib.meta
+Unity/Assets/Plugins/OpenGLRendering.ilk.meta
+Unity/Assets/Plugins/OpenGLRendering.pdb
+Unity/Assets/Plugins/OpenGLRendering.pdb.meta
